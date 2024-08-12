@@ -41,7 +41,7 @@ The Kalman Filter is implemented in MATLAB and Simulink, and the DC motor model 
 
 ## Author
 
-Simone Bertoni - [Website](simonebertonilab.com)
+Simone Bertoni - [Control Lab](https://www.simonebertonilab.com)
 
 ## Contact
 
