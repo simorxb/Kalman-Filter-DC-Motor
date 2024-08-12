@@ -39,3 +39,11 @@ The Kalman Filter is implemented in MATLAB and Simulink, and the DC motor model 
 - **Noise Handling:** Demonstrates the effect of noise on measurements and estimation accuracy.
 - **Open Access Model:** Access via MATLAB Online for hands-on experience.
 
+## Author
+
+Simone Bertoni - [Website](simonebertonilab.com)
+
+## Contact
+
+For further communication, connect with Simone Bertoni on [LinkedIn](https://www.linkedin.com/in/simone-bertoni-control-eng/).
+
